@@ -20,9 +20,9 @@ text (string, required): The text to be summarized.
 word_limit (integer, optional): The maximum number of words in the summary.
 
 **Request Example**
-{
+`{
     "text": "Your long text here...",
     "word_limit": 50  // Optional
-}
+}`
 
 
